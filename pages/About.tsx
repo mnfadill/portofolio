@@ -25,8 +25,8 @@ export default function About() {
             Hi, My name is{" "}
             <span className="text-purple">Muhammad Nur Fadillah</span> but i
             would like if you call me <span className="text-purple">Fadil</span>
-            , i'm a self-tough frontend developer who loves to create beautiful
-            and functional websites. I am passionate about learning new
+            , i am enthusiastic about continuosly improving my PHP skills to contribute to the succes 
+            of web projects by delivering efficient backend solutions. I am passionate about learning new
             technologies and staying up-to-date with the latest trends in web
             development.
           </p>
