@@ -46,7 +46,7 @@ export const social: Social[] = [
   },
   {
     icon: FiLinkedin,
-    link: "https://www.linkedin.com/in/fatah-robbysalam/",
+    link: "https://www.linkedin.com/in/mnur-fadillah/",
     title: "Linkedin",
   },
   {
